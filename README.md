@@ -16,61 +16,62 @@ Huge restock! 400 Accounts restocked, mostly origin (new origin accounts!)
 ## 1.23 - New update upcoming! Please leave your suggestions in the support server !links
 
 # Commands
-###### !ads 
-Display your content in front of thousands of users!
+!ads 
+###### Display your content in front of thousands of users!
 
-###### !premium 
-No more ads and more likely to work items!
+!premium 
+###### No more ads and more likely to work items!
 
-###### !invite 
-nvite this bot to your server
+!invite 
+###### invite this bot to your server
 
-###### !linkvertise 
-Need help with linkvertise? Use this command.
+!linkvertise 
+###### Need help with linkvertise? Use this command.
 
-###### !links 
-Important links
+!links 
+###### Important links
 
-###### !stock Shows item stock!
+!stock 
+###### Shows item stock!
 
-###### !acknowlegements 
-Shows you the contributers
+!acknowlegements 
+###### Shows you the contributers
 
-###### !downloads 
-epic downloads
+!downloads 
+###### epic downloads
 
-###### !stock 
-Generator stock
+!stock 
+###### Generator stock
 
-###### !spotify 
-To Get A Spotify Item .
+!spotify 
+###### To Get A Spotify Item .
 
-###### !steam 
-To Get A steam Item .
+!steam 
+###### To Get A steam Item .
 
-###### !disney 
-To Get A Disney I.
+!disney 
+###### To Get A Disney I.
 
-###### !hulu 
-To Get A Hulu Item .
+!hulu 
+###### To Get A Hulu Item .
 
-###### !minecraft 
-To Get A Minecraft Item .
+!minecraft 
+###### To Get A Minecraft Item .
 
-###### !nitro 
-To Get A Unchecked Nitro Link .
+!nitro 
+###### To Get A Unchecked Nitro Link .
 
-###### !nordvpn 
-To Get A NordVPN Item .
+!nordvpn 
+###### To Get A NordVPN Item .
 
-###### !origin 
-To Get A Origin Item .
+!origin 
+###### To Get A Origin Item .
 
-###### !proxy 
-To Get A Proxy .
+!proxy 
+###### To Get A Proxy .
 
-###### !netflix 
-To Get A Netflix Item .
+!netflix 
+###### To Get A Netflix Item .
 
 
 
