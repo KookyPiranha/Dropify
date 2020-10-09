@@ -1,2 +1,4 @@
 # Dropify
-Dropify Bot Stuff Blah Blah Blah
+Dropify Bot Documentation!
+
+
