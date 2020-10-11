@@ -3,15 +3,21 @@ Dropify Bot Documentation!
 
 # Updates
 ## 1.0 - Bot start, hosted by (My Device) Node.js
+The birth of the bot!
+Nothing new, just used dulplicated source code
 
 ## 1.10 - Bot has gotten to 20 Members! (New stock)> Added disney
+Yay, bot is still the same
 
 ## 1.12 - Bot has gotten to 50 Members! Changed host into (glitch.com) preventing downtime!
+Glitch.com is a great bot hosting platform for people who don't have a device with high ram and good requirements like memory. Used to experience downtime a lot.
 
 ## 1.15 - Extorhosting has taken over, thanks for hosting our bot, Program method: mostly java
+Try extor hosting! https://extorhosting.xyz
 
 ## 1.20 - Huge bot update, new interface, inline embeds etc... 
 Huge restock! 400 Accounts restocked, mostly origin (new origin accounts!)
+Cool new UI system (inline stuff) epic stuff
 
 ## 1.23 - New update upcoming! Please leave your suggestions in the support server !links
 
